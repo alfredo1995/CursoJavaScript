@@ -7,4 +7,4 @@
 //concatenação
 //sinonimos concatenar = somar = ajuntar = combinar
 
-console.log('A soma de 10 + 15 é: (10+15)');
+console.log('A soma de 10 + 15 é: ('+ (10+15) +')');
